@@ -1,6 +1,6 @@
-# Makeyver
+# Téo Makeyver Moraes de Souza
 
-> Olá,tudo bem! Me chamo Téo Makeyver e estou me tornando Cientista de Dados Com a ajuda da DIO. Atualmente Cursando Ciencias Economicas na Ampli Anhanguera, com formação em 05/2025. 
+>> Olá,tudo bem! Me chamo Téo Makeyver e estou me tornando Cientista de Dados Com a ajuda da DIO. Atualmente Cursando Ciencias Economicas na Ampli Anhanguera, com formação em 05/2025. 
 
 ## social Media
 
